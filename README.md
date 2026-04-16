@@ -1,4 +1,4 @@
-Dynamic Leaderboard System for Online Games
+Leaderboard System for Online Games
 BACSE105 Data Structures and Algorithms (FALL 2025-2026)
 Sivasankaran Sankar - 25BCE2650
 Course Instructor: Dr. P. Antony Seba
